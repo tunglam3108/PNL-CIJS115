@@ -1,0 +1,20 @@
+.card {
+  width: 200px;
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: sans-serif;
+  margin: 5px;
+}
+
+.card-name {
+  font-size: 14px;
+}
+
+.card-class {
+  font-size: 14px;
+}
+
+.card-blabla {
+  font-size: 14px;
+}
